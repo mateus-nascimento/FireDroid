@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668240686000",
+    "firebase_url": "https://firedroid-e9e32.firebaseio.com",
+    "project_id": "firedroid-e9e32",
+    "storage_bucket": "firedroid-e9e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668240686000:android:a32286ac812c9061",
+        "android_client_info": {
+          "package_name": "ledare.com.br.firedroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668240686000-emgpeetgamr59un22fmv31mt8ih5qck8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ledare.com.br.firedroid",
+            "certificate_hash": "342A248991C07F409EE1C697A6CC48FF215F361E"
+          }
+        },
+        {
+          "client_id": "668240686000-n9h4ohaha4gb7ndsoego41big0t2r3lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_QqWtuatShI09GNSWsmYpIKkTosaKG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668240686000-n9h4ohaha4gb7ndsoego41big0t2r3lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

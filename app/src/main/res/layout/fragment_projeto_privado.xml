@@ -1,0 +1,22 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools">
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ledare.com.br.firedroid.ProjetoPrivadoFragment">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:src="@drawable/float_button_add_projeto"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerViewPrivado"/>
+
+</FrameLayout>
+</layout>

@@ -1,0 +1,35 @@
+<resources>
+    <!--Application-->
+    <string name="app_name">FireDroid</string>
+    <string name="activity_detail">Detalhe do Projeto</string>
+
+    <!--Database-->
+    <string name="projetos_privados">projetos_privados</string>
+    <string name="projetos_publicos">projetos_publicos</string>
+
+    <!--Storage-->
+    <string name="storage_ref">.l.</string>
+
+    <!--Google-->
+    <string name="google_sign_in_key">668240686000-n9h4ohaha4gb7ndsoego41big0t2r3lv.apps.googleusercontent.com</string>
+    <string name="button_google_sign_in">Login Google</string>
+    <string name="erro_google_sing_in">Erro no login com o Google</string>
+
+    <!--Facebook-->
+    <string name="facebook_app_id">1700296490294537</string>
+    <string name="button_facebook_sign_in">Login Facebook</string>
+    <string name="erro_facebook_sing_in">Erro no login com o Facebook</string>
+
+    <!--Menu-->
+    <string name="menu_signout">LogOut</string>
+
+    <!--TabLayout-->
+    <string name="tab_publico">Publicos</string>
+    <string name="tab_privado">Privados</string>
+    <string name="erro_google_auth">Erro na autenticação do google</string>
+
+    <!--item_projeto-->
+    <string name="description">Imagem do projeto</string>
+
+
+</resources>
